@@ -7,6 +7,8 @@ public class SeaShip {
 
     private String name = null;
 
+    private int palubaCount = 3;
+
     private ArrayList<String> locationCells = new ArrayList<String>();
 
     public SeaShip() {
